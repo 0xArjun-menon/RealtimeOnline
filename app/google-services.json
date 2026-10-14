@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954408740505",
+    "project_id": "realtimeonline-2a2b0",
+    "storage_bucket": "realtimeonline-2a2b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954408740505:android:98a9b5e92b1c9d8a89ba08",
+        "android_client_info": {
+          "package_name": "com.example.realtimeonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3jPWIVY2Jvy8WihNqcyVKQFYEDabrzjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

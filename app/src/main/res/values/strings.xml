@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">realtimeonline</string>
+    <string name="user_details">User Details</string>
+    <string name="enter_your_information_below">Enter your information below</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="save">Save</string>
+    <string name="retrieve_data">Retrieve Data</string>
+</resources>
